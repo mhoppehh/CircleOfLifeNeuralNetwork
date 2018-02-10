@@ -1,7 +1,7 @@
 public class Data{
-    public Picture data[];
+    public Neighborhood data[];
     public int nPics;
-    public Data(Picture data[], int nPics){
+    public Data(Neighborhood data[], int nPics){
         this.data = data;
         this.nPics = nPics;
     }
