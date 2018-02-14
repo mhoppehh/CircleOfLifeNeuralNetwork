@@ -104,7 +104,7 @@ public class Main
         //randomize_weights_biases();
         load_weights_biases();
 
-        int EPOCHS = 10;
+        int EPOCHS = 200;
         int M_BATCH_SIZE = 10;
         int LEARNING_RATE = 3;
 
